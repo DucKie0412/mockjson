@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "customerName": "Hoàng Thị E",
+    "gender": "Nữ",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "hoangthie@gmail.com",
+    "phone": "0244 836 223",
+    "address": "Đống Đa | Hà Nội"
+  },
+  {
+    "id": 2,
+    "customerName": "Bùi Văn F",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "buivanf@gmail.com",
+    "phone": "0265 836 244",
+    "address": "Thanh Xuân | Hà Nội"
+  },
+  {
+    "id": 3,
+    "customerName": "Nguyễn Văn G",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "nguyenvang@gmail.com",
+    "phone": "0244 134 223",
+    "address": "Việt Trì | Phú Thọ"
+  },
+  {
+    "id": 4,
+    "customerName": "Trần Thị H",
+    "gender": "Nữ",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "tranthih@gmail.com",
+    "phone": "0245 735 937",
+    "address": "Vinh | Nghệ An"
+  },
+  {
+    "id": 5,
+    "customerName": "Phạm Văn K",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "phamvank@gmail.com",
+    "phone": "0273 656 837",
+    "address": "Đống Đa | Hà Nội"
+  },
+  {
+    "id": 6,
+    "customerName": "Trần Thị A",
+    "gender": "Nữ",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "tranthia@gmail.com",
+    "phone": "0244 873 153",
+    "address": "Đống Đa | Hà Nội"
+  },
+  {
+    "id": 7,
+    "customerName": "Nguyễn Văn D",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "nguyenvand@gmail.com",
+    "phone": "0233 836 223",
+    "address": "Hoàng Mai | Hà Nội"
+  },
+  {
+    "id": 8,
+    "customerName": "Quách Văn C",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "quachvanc@gmail.com",
+    "phone": "0297 476 223",
+    "address": "Hai Bà Trưng | Hà Nội"
+  },
+  {
+    "id": 9,
+    "customerName": "Lê Minh B",
+    "gender": "Nữ",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "leminhb@gmail.com",
+    "phone": "0244 084 888",
+    "address": "Sóc Sơn | Hà Nội"
+  },
+  {
+    "id": 10,
+    "customerName": "Mai Hoàng Q",
+    "gender": "Nam",
+    "avatar": "https://ichef.bbci.co.uk/news/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg",
+    "email": "maihoangq@gmail.com",
+    "phone": "0244 716 223",
+    "address": "Nho Quan | Ninh Bình"
+  }
+]
